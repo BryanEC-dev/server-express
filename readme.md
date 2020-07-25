@@ -1,2 +1,2 @@
 # Practica de express
-nmp install
+npm install
